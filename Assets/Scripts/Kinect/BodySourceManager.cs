@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//Code referenced from https://learn.microsoft.com/en-us/windows/apps/design/devices/kinect-for-windows
+using UnityEngine;
 using System.Collections;
 using Windows.Kinect;
 

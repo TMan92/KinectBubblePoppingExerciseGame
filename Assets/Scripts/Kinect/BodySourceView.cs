@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿//Code referenced from https://learn.microsoft.com/en-us/windows/apps/design/devices/kinect-for-windows
+//Additionally referenced from https://www.youtube.com/watch?v=aHGlLxh6a88
+using UnityEngine;
 using UnityEngine.Networking;
 using System.Collections.Generic;
 using Windows.Kinect;

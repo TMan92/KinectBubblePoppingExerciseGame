@@ -1,3 +1,5 @@
+//Code followed and referenced from youtube tutorial series https://www.youtube.com/watch?v=aHGlLxh6a88&list=RDCMUCG8bDPqp3jykCGbx-CiL7VQ&index=9
+//Additional tutorial https://www.youtube.com/watch?v=A5YSbgqr3sc
 using UnityEngine;
 
 public class Background : MonoBehaviour

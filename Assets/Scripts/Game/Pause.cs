@@ -1,3 +1,5 @@
+//Code referenced from tutorial https://www.youtube.com/watch?v=b0V9pymFPE8&t=177s 
+//Additionally refeenced from https://vionixstudio.com/2020/11/26/pause-a-game-in-unity/ 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

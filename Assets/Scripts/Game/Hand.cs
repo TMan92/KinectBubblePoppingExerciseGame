@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//Code followed and obtained from youtube tutorial series https://www.youtube.com/watch?v=aHGlLxh6a88&list=RDCMUCG8bDPqp3jykCGbx-CiL7VQ&index=9
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,9 +11,9 @@ public class Hand : MonoBehaviour
     public GameObject mJointObject;
     public int scoreToGive = 0;
     public ScoreManager scoreManager;
+    
 
     [SerializeField] SoundManager soundManager;
-
 
     private void Update()
     {

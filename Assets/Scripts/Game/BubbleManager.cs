@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//Code followed and obtained from youtube tutorial series https://www.youtube.com/watch?v=aHGlLxh6a88&list=RDCMUCG8bDPqp3jykCGbx-CiL7VQ&index=9
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,6 +14,7 @@ public class BubbleManager : MonoBehaviour
     private Vector2 mBottomLeft = Vector2.zero;
     private Vector2 mTopRight = Vector2.zero;
     
+    //[SerializeField] NotificationManager notificationManager;
 
     private void Awake()
     {
