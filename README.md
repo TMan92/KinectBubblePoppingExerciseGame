@@ -1,11 +1,11 @@
 # KinectBubblePoppingExerciseGame
 
 # Description
-A game I am developing for my University Project which is intented to be an exergame used by people with Parkinson's Disease
+A game I am developing for my University Project which is intended to be an exergame used by people with Parkinson's Disease
 This game is intended to be played through the use of the Microsoft Kinect Sensor v2
 No Mouse Control code has been added to the game
 
-# Tools and sofware used
+# Tools and software used
 
 1. Downloaded Kinect for Windows SDK 2.0 and the Unity Pro Packages
 2. Downloaded Visual Studio Community 2019 
@@ -20,7 +20,7 @@ No Mouse Control code has been added to the game
 4. Remove the default scene from the hierarchy pane
 5. Press Play on the Home Screen scene
 6. Choose New Game which will load the Character Selection scene
-7. Select a Charater and press play, which will then load the main game scene
+7. Select a Character and press play, which will then load the main game scene
 
 # How to play the game
 
