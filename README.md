@@ -35,18 +35,26 @@ No Mouse Control code has been added to the game
 # Tutorials used in the design of the game
 
 Balloon popping game - https://www.youtube.com/watch?v=uXVaq5GO1lM
-Kinect Balloon popping Game https://www.youtube.com/watch?v=B7T0XTNk-Vg
+
+Kinect Balloon popping Game - https://www.youtube.com/watch?v=B7T0XTNk-Vg
+
 Balloon popping mini-game with HUD - https://www.youtube.com/watch?v=uXVaq5GO1lM
-Logon screen tutorial https://www.youtube.com/watch?v=2PKBChN10us 
-Background help https://www.youtube.com/watch?v=A5YSbgqr3sc 
-Audio help https://www.youtube.com/watch?v=6OT43pvUyfY 
-Popping Sound help https://www.youtube.com/watch?v=g5Sy4eiQqiE
-Timer (UI) help https://www.youtube.com/watch?v=HmHPJL-OcQE 
-Extension of Balloon popping game https://www.youtube.com/watch?v=ilJ8K9cCLYw&list=PLnEt5PBXuAmvoILHyBUkGdWsUow4dCy8c&index=15 (DB)
+
+Logon screen tutorial - https://www.youtube.com/watch?v=2PKBChN10us 
+
+Background help - https://www.youtube.com/watch?v=A5YSbgqr3sc 
+
+Audio help - https://www.youtube.com/watch?v=6OT43pvUyfY 
+
+Popping Sound help - https://www.youtube.com/watch?v=g5Sy4eiQqiE
+
+Timer (UI) help - https://www.youtube.com/watch?v=HmHPJL-OcQE 
+
+Extension of Balloon popping game - https://www.youtube.com/watch?v=ilJ8K9cCLYw&list=PLnEt5PBXuAmvoILHyBUkGdWsUow4dCy8c&index=15 (DB)
 
 
 
 # References used in the design of the game
 
-GitHub repository https://github.com/C-Through/Kinect-BubbleGame
-Bubble Manager script (Kinect) https://www.youtube.com/watch?v=fePCENFMYRc 
+GitHub repository - https://github.com/C-Through/Kinect-BubbleGame
+Bubble Manager script (Kinect) - https://www.youtube.com/watch?v=fePCENFMYRc 
