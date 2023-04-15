@@ -20,7 +20,7 @@ No Mouse Control code has been added to the game
 4. Remove the default scene from the hierarchy pane
 5. Press Play on the Home Screen scene
 6. Choose New Game which will load the Character Selection scene
-7. Choose a Charater to play as and press play, which will then load the main game scene
+7. Select a Charater and press play, which will then load the main game scene
 
 # How to play the game
 
