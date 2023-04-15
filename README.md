@@ -28,7 +28,7 @@ No Mouse Control code has been added to the game
 2. Pop as many balloons as you can in the 3 minute time frame, using your hands to pop the balloons
 3. The game ends once the timer counts down to zero
 
-# Example Interface Screenshot image
+# Example Interface Screenshot
 
 ![image](https://user-images.githubusercontent.com/126461574/232249623-f043a38e-73e6-41aa-8e69-ce2fa7385de5.png)
 
