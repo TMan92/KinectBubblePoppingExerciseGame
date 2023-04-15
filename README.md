@@ -57,4 +57,5 @@ Extension of Balloon popping game - https://www.youtube.com/watch?v=ilJ8K9cCLYw&
 # References used in the design of the game
 
 GitHub repository - https://github.com/C-Through/Kinect-BubbleGame
+
 Bubble Manager script (Kinect) - https://www.youtube.com/watch?v=fePCENFMYRc 
